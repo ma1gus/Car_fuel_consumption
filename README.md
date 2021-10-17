@@ -1,4 +1,4 @@
-# Car fuel consumption (Example for my resume)
+# Car fuel consumption (Example from course of study)
 # The course of learning the basics C#
 
 # The basics
