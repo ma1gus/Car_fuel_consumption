@@ -1,2 +1,2 @@
-# Car fuel consumption (Example from course of study)  
+# Car fuel consumption
 Простая консолька, рассчитывающая расход топлива авто
